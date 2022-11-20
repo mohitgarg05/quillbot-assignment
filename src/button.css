@@ -1,0 +1,22 @@
+button{
+    background: #11A683;
+    color: rgb(255,255,255);
+    width: 300px;
+    height: 48px;
+    margin-left: 10px;
+    border: none;
+    font-weight: 700;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+button:hover{
+    background: #14C39A;
+}
+
+
+@media (max-width: 900px) {
+    button{
+        width: 250px;
+    }
+}

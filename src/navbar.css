@@ -1,0 +1,32 @@
+.container{
+    height: 80px;
+}
+
+.wrapper{
+    display: flex;
+}
+
+.wrapper .logo{
+    margin-left: 30px;
+    position: relative;
+    
+}
+.wrapper .logo img{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.wrapper .login{
+    margin-left: auto;
+    margin-right: 30px;
+}
+
+.wrapper .login h4{
+    cursor: pointer;
+    text-align: center;
+    font-family: Inter,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 32px;
+}

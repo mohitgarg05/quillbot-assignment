@@ -1,0 +1,32 @@
+.firtsList_con{
+    margin-right :160px;
+    margin-top: 30px;
+}
+
+.first_wrap img{
+    box-shadow: 0 14px 55px rgb(109 117 141 / 20%);
+    
+}
+
+
+.first_box img{
+    margin-top: -50px;
+    margin-left: 50px;
+    box-shadow: 0 14px 55px rgb(109 117 141 / 20%);
+    width: auto;
+}
+
+@media (max-width: 900px) {
+    .firtsList_con{
+        width: 100%;
+        overflow: hidden;
+        padding-left: 20px;
+    }
+    .first_wrap img{
+        width: 350px;
+        box-shadow: 0 5px 15px rgb(109 117 141 / 15%);
+    }
+    .first_box img{
+        width: 350px;
+    }
+}

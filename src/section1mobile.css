@@ -1,0 +1,30 @@
+@media (max-width: 900px) {
+    .wrap{
+        width: 100%;
+    }
+
+    .heading_section1{
+        width: 100%;
+    }
+
+    .heading_section1 h1{
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .section1_wrapper{
+        flex-direction: column-reverse;
+    }
+    .section1_listcontent ul{
+        width: 100%;
+    }
+    .section1_listcontent ul li{
+        padding-bottom: 50px;
+        border: none;
+    }
+    .section1_listcontent ul li .mobile{
+        margin-top: 25px;
+        text-align: center;
+    }
+    
+}
