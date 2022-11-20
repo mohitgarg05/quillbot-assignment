@@ -2,9 +2,8 @@ import React,{useState,useEffect} from 'react'
 import Button from './button';
 import List from './list';
 import FirstList from '../listComponents/firstList';
-import '../section1.css';
-import '../section1mobile.css';
-import { animated, useTransition } from '@react-spring/web'
+import '../css/section1.css';
+import '../css/section1mobile.css';
 
 const Section1 = () => {
 

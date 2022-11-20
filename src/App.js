@@ -1,4 +1,4 @@
-import './App.css';
+import './css/App.css';
 import Navbar from './components/navbar'
 import Section2 from './components/section2'
 import Section1 from './components/section1';

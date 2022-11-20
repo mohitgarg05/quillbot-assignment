@@ -1,6 +1,6 @@
 import React from 'react'
-import '../section2.css';
-import '../section2mobile.css';
+import '../css/section2.css';
+import '../css/section2mobile.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCheck } from '@fortawesome/free-solid-svg-icons'
 import Button from './button';

@@ -1,5 +1,4 @@
-import React,{useState,useEffect} from 'react'
-import './firstlist.css';
+import  '../css/firstlist.css';
 import 'animate.css';
 const FirstList = (props) => {
 
